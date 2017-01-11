@@ -1,294 +1,294 @@
 # Items
 
-Knuckle Duster
-Golf Club
-Baton
-Combat Knife
-Baseball Bat
-Spade
-Pool Cue
-Sword
-Chainsaw
-Dildo
-Dildo
-Dildo
-Dildo
-Flowers
-Cane
-Grenade
-Teargas
-Molotov
-M9
-M9 SD
-Desert Eagle
-Shotgun
-Sawnoff
-Spas 12
-Mac 10
-MP5
-WASR-3
-M16
-Tec 9
-Rifle
-Sniper
-RPG
-Heatseeker
-Flamer
-Minigun
-Remote Bomb
-Detonator
-Spray Paint
-Extinguisher
-Camera
-Night Vision
-Thermal Vision
-Parachute
-Medkit
-Hard Drive
-Key
-Fireworks
-Lighter
-Timer Device
-TNT
-Timed TNT
-Battery
-Fuse Box
-Bottle
-Sign
-Armour
-Dirty Bandage
-Fishing Rod
-Wrench
-Crowbar
-Hammer
-Shield
-Flashlight
-Stun Gun
-Laser Pointer
-Screwdriver
-Mobile Phone
-Pager
-Rake
-Hotdog
-Easter Egg
-Cane
-Handcuffs
-Bucket
-Gas Mask
-Flag
-Doctor's Bag
-Backpack
-Small Bag
-Wheel
-Motion Sensor
-Accelerometer
-Proximity TNT
-IED
-Pizza
-Burger
-Burger
-Taco
-Petrol Can
-Clothes
-Army Helmet
-Medium Box
-Small Box
-Large Box
-Hockey Mask
-Meat
-Leg
-Torso
-Plank
-Unknown
-Capsule
-Receiver
-Sign
-Mailbox
-Pumpkin
-Nailbat
-Zorro Mask
-BBQ
-Headlight
-Pills
-Injector
-Burger
-Can
-Detergent
-Dice
-Dynamite
-Metal Door
-Metal Panel
-Metal Gate
-Crate Door
-Corrugated Metal
-Ship Door
-Insulated Doorway
-Insulated Panel
-Small Metal Panel
-Wood Ramp
-Flare
-Phone Remote TNT
-Parachute Bag
-Keypad
-Tent Pack
-Campfire
-Cowboy Hat
-Trucker Cap
-Boater Hat
-Bowler Hat
-Police Cap
-Top Hat
-9mm Rounds
-.50 Rounds
-Shotgun Shells
-5.56 Rounds
-.357 Rounds
-Rockets
-Empty Molotov
-Pre-War Money
-Power Supply
-Storage Unit
-Fluctuator Unit
-I/O Unit
-Flux Capacitor
-Data Interface
-Hack Interface
-Plant Pot
-Derpification Unit
-Sebastian
-Trip Mine TNT
-Timed IED
-Proximity IED
-Trip Mine IED
-Phone Remote IED
-Timed EMP
-Proximity EMP
-Trip Mine EMP
-Phone Remote EMP
-Gyroscope Unit
-Motor
-Starter Motor
-Flare Gun
-Petrol Bomb
-Code
-Large Backpack
-Locksmith Kit
-Christmas Hat
-VEHICLE_WEAPON
-Advanced Keypad
-9mm Rounds
-Shotgun Shells
-Shotgun Shells
-5.56 Rounds
-5.56 Rounds
-.357 Rounds
-7.62 Rounds
-AK-47
-M77-RM
-Dog's Breath
-.50 Rounds
-.308 Rounds
-Model 70
-The Len-Knocks
-Daypack
-Medium Bag
-Travel Rucksack
-Seeds
-Note
-Tomato
-Heart Shaped Box
-Antiseptic Bandage
-Wood Log
-Sledgehammer
-Fish
-Wrench
-Suitcase
-Oilcan
-Small Amp
-Big Ass Sword
-Microphone
-Spatula
-Pan
-Kitchen Knife
-Meat
-Frying Pan
-Pizza
-Loaf of Bread
-Banana
-Orange
-Lock and Chain
-Red Apple
-Lemon
-Pissh Box
-Pizza Box
-Milk Bottle
-Milk Carton
-Ice Cream
-Fishy Fingers
-Ice Cream Bars
-Apple Juice
-Orange Juice
-Cereal
-Cereal
-Wrapped Meat
-Beanie
-Straw Hat
-Witches Hat
-Wedding Cake
-Captain's Cap
-Swat Helmet
-Pizza Hat
-Pussy Mask
-Boxing Gloves
-Briquettes
-Devil Mask
-Cross
-Red Panel
-Fork
-Knife
-Ketchup
-Mustard
-Boot
-Doormat
-Cake Slice
-Holdall
-Green Apple
-Wine
-Wine
-Wine
-Whisky
-Champagne
-Ham
-Steak
-Bread
-Broom
-Keycard
-Burnt Log
-Padlock
-Oil Drum
-Canister
-Scrap Metal
-Refined Metal
-Locator
-Plot Pole
-Scrap Machine
-Refining Machine
-Water Purifier
-Workbench
-Radio
-Locker
-Gear Box
-Tool Box
-Metal Panel
-Electronic Lockpick
-Police Helmet
-Control Box
-Computer
-Metal Frame
-IR Controller
-Desk
-Table
-Gun Case
-Cupboard
-Barstool
-Small Table
+- Knuckle Duster
+- Golf Club
+- Baton
+- Combat Knife
+- Baseball Bat
+- Spade
+- Pool Cue
+- Sword
+- Chainsaw
+- Dildo
+- Dildo
+- Dildo
+- Dildo
+- Flowers
+- Cane
+- Grenade
+- Teargas
+- Molotov
+- M9
+- M9 SD
+- Desert Eagle
+- Shotgun
+- Sawnoff
+- Spas 12
+- Mac 10
+- MP5
+- WASR-3
+- M16
+- Tec 9
+- Rifle
+- Sniper
+- RPG
+- Heatseeker
+- Flamer
+- Minigun
+- Remote Bomb
+- Detonator
+- Spray Paint
+- Extinguisher
+- Camera
+- Night Vision
+- Thermal Vision
+- Parachute
+- Medkit
+- Hard Drive
+- Key
+- Fireworks
+- Lighter
+- Timer Device
+- TNT
+- Timed TNT
+- Battery
+- Fuse Box
+- Bottle
+- Sign
+- Armour
+- Dirty Bandage
+- Fishing Rod
+- Wrench
+- Crowbar
+- Hammer
+- Shield
+- Flashlight
+- Stun Gun
+- Laser Pointer
+- Screwdriver
+- Mobile Phone
+- Pager
+- Rake
+- Hotdog
+- Easter Egg
+- Cane
+- Handcuffs
+- Bucket
+- Gas Mask
+- Flag
+- Doctor's Bag
+- Backpack
+- Small Bag
+- Wheel
+- Motion Sensor
+- Accelerometer
+- Proximity TNT
+- IED
+- Pizza
+- Burger
+- Burger
+- Taco
+- Petrol Can
+- Clothes
+- Army Helmet
+- Medium Box
+- Small Box
+- Large Box
+- Hockey Mask
+- Meat
+- Leg
+- Torso
+- Plank
+- Unknown
+- Capsule
+- Receiver
+- Sign
+- Mailbox
+- Pumpkin
+- Nailbat
+- Zorro Mask
+- BBQ
+- Headlight
+- Pills
+- Injector
+- Burger
+- Can
+- Detergent
+- Dice
+- Dynamite
+- Metal Door
+- Metal Panel
+- Metal Gate
+- Crate Door
+- Corrugated Metal
+- Ship Door
+- Insulated Doorway
+- Insulated Panel
+- Small Metal Panel
+- Wood Ramp
+- Flare
+- Phone Remote TNT
+- Parachute Bag
+- Keypad
+- Tent Pack
+- Campfire
+- Cowboy Hat
+- Trucker Cap
+- Boater Hat
+- Bowler Hat
+- Police Cap
+- Top Hat
+- 9mm Rounds
+- .50 Rounds
+- Shotgun Shells
+- 5.56 Rounds
+- .357 Rounds
+- Rockets
+- Empty Molotov
+- Pre-War Money
+- Power Supply
+- Storage Unit
+- Fluctuator Unit
+- I/O Unit
+- Flux Capacitor
+- Data Interface
+- Hack Interface
+- Plant Pot
+- Derpification Unit
+- Sebastian
+- Trip Mine TNT
+- Timed IED
+- Proximity IED
+- Trip Mine IED
+- Phone Remote IED
+- Timed EMP
+- Proximity EMP
+- Trip Mine EMP
+- Phone Remote EMP
+- Gyroscope Unit
+- Motor
+- Starter Motor
+- Flare Gun
+- Petrol Bomb
+- Code
+- Large Backpack
+- Locksmith Kit
+- Christmas Hat
+- VEHICLE_WEAPON
+- Advanced Keypad
+- 9mm Rounds
+- Shotgun Shells
+- Shotgun Shells
+- 5.56 Rounds
+- 5.56 Rounds
+- .357 Rounds
+- 7.62 Rounds
+- AK-47
+- M77-RM
+- Dog's Breath
+- .50 Rounds
+- .308 Rounds
+- Model 70
+- The Len-Knocks
+- Daypack
+- Medium Bag
+- Travel Rucksack
+- Seeds
+- Note
+- Tomato
+- Heart Shaped Box
+- Antiseptic Bandage
+- Wood Log
+- Sledgehammer
+- Fish
+- Wrench
+- Suitcase
+- Oilcan
+- Small Amp
+- Big Ass Sword
+- Microphone
+- Spatula
+- Pan
+- Kitchen Knife
+- Meat
+- Frying Pan
+- Pizza
+- Loaf of Bread
+- Banana
+- Orange
+- Lock and Chain
+- Red Apple
+- Lemon
+- Pissh Box
+- Pizza Box
+- Milk Bottle
+- Milk Carton
+- Ice Cream
+- Fishy Fingers
+- Ice Cream Bars
+- Apple Juice
+- Orange Juice
+- Cereal
+- Cereal
+- Wrapped Meat
+- Beanie
+- Straw Hat
+- Witches Hat
+- Wedding Cake
+- Captain's Cap
+- Swat Helmet
+- Pizza Hat
+- Pussy Mask
+- Boxing Gloves
+- Briquettes
+- Devil Mask
+- Cross
+- Red Panel
+- Fork
+- Knife
+- Ketchup
+- Mustard
+- Boot
+- Doormat
+- Cake Slice
+- Holdall
+- Green Apple
+- Wine
+- Wine
+- Wine
+- Whisky
+- Champagne
+- Ham
+- Steak
+- Bread
+- Broom
+- Keycard
+- Burnt Log
+- Padlock
+- Oil Drum
+- Canister
+- Scrap Metal
+- Refined Metal
+- Locator
+- Plot Pole
+- Scrap Machine
+- Refining Machine
+- Water Purifier
+- Workbench
+- Radio
+- Locker
+- Gear Box
+- Tool Box
+- Metal Panel
+- Electronic Lockpick
+- Police Helmet
+- Control Box
+- Computer
+- Metal Frame
+- IR Controller
+- Desk
+- Table
+- Gun Case
+- Cupboard
+- Barstool
+- Small Table
