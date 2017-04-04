@@ -7,7 +7,7 @@
 - Baseball Bat
 - Spade
 - Pool Cue
-- Sword
+- [Sword](items/Sword)
 - Chainsaw
 - Dildo
 - Dildo
