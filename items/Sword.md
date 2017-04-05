@@ -5,7 +5,7 @@ The pinnacle of ancient bladed weaponry, this Japanese sword is capable of infli
 
 ## Technical
 
-- Bladed Melee Weapon
+- One/Two Handed Bladed Melee Weapon
 - Bleedrate: 0.44
 - Knock-out chance: 15
 - 4 Inventory Slots Required
