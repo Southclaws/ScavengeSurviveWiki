@@ -1,10 +1,10 @@
 # Sword
-(Ref:008)
 
 The pinnacle of ancient bladed weaponry, this Japanese sword is capable of inflicting fatal wounds.
 
 ## Trivia
 
+- Item Ref 008
 - One/Two Handed Bladed Melee Weapon
 - Holsterable, unique Unholster Speed of 0.6 seconds.
 
