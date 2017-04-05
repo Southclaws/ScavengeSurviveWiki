@@ -1,6 +1,7 @@
 # Sword
 
 The pinnacle of ancient bladed weaponry, this Japanese sword is capable of inflicting fatal wounds.
+![](#!/images/Sword.png)
 
 ## Trivia
 
