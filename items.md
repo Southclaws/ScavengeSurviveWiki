@@ -1,5 +1,11 @@
 # Items
 
+## Melee Items
+
+- [Knuckle Duster](#!wiki/items/Knuckle Duster.md)
+
+## All items
+
 - [Knuckle Duster](#!wiki/items/Knuckle Duster.md)
 - [Golf Club](#!wiki/items/Golf Club.md)
 - [Baton](#!wiki/items/Baton.md)
