@@ -11,7 +11,7 @@ The pinnacle of ancient bladed weaponry, this Japanese sword is capable of infli
 
 ## Statistics
 
-- Bleedrate: 44%
+- Bleedrate: 0.44B/s
 - Knock-out chance: 15%
 - 4 Inventory Slots Required
 
