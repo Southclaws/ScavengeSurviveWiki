@@ -1,13 +1,15 @@
 # Sword
+(Ref:008)
 
-A sharp Japanese sword capable of inflicting fatal wounds.
+The pinnacle of ancient bladed weaponry, this Japanese sword is capable of inflicting fatal wounds.
 
-## Stats
+## Technical
 
+- Bladed Melee Weapon
 - Bleedrate: 0.44
 - Knock-out chance: 15
+- 4 Inventory Slots Required
 
 ## Spawns
 
-- Survivor
-- 0.05%
+- Survivor (Legendary)
