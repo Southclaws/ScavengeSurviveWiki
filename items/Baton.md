@@ -12,7 +12,7 @@ The Baton is a weapon commonly used by police to enforce laws by beating crimina
 
 - Item Ref 004
 - One Handed Blunt Melee Weapon
-- Holsterable
+- Holsterable (Quick)
 - Scrap Value of 1
 
 ## Spawns
