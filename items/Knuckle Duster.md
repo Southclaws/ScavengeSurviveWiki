@@ -1,6 +1,7 @@
 # Knuckle Duster
 
 Simple, small and a favourite of gangsters for decades. The Knuckle Duster; when a punch just isn't hard enough.
+![](#!/images/Knuckle Duster.png)
 
 ## Statistics
 
