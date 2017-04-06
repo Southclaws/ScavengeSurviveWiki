@@ -11,7 +11,7 @@ The pinnacle of ancient bladed weaponry, this Japanese sword is capable of infli
 
 ## Trivia
 
-- Item Ref 008
+- Item Ref 009
 - One/Two Handed Bladed Melee Weapon
 - Holsterable, unique Unholster Speed of 0.6 seconds.
 - Scrap Value of 3
