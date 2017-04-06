@@ -6,7 +6,7 @@ Simple, small and a favourite of gangsters for decades. The Knuckle Duster; when
 
 - Bleedrate: 0.05B/s
 - Knock-out chance: 20%
-- 1 Inventory Slots Required
+- 1 Inventory Slot Required
 
 ## Trivia
 
