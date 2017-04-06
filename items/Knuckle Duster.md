@@ -10,7 +10,7 @@ Simple, small and a favourite of gangsters for decades. The Knuckle Duster; when
 
 ## Trivia
 
-- Item Ref 001
+- Item Ref 002
 - One Handed Blunt Melee Weapon
 - Unable to Holster
 - Scrap Value of 1
