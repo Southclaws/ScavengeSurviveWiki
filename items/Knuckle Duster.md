@@ -17,5 +17,6 @@ Simple, small and a favourite of gangsters for decades. The Knuckle Duster; when
 
 ## Spawns
 
-- Civilian (Rare)
-- Industrial (Rare)
+- Civilian (Common)
+- Civilian Vehicles (Common)
+- Weapon Drops (Common)
