@@ -17,4 +17,5 @@ The Baton is a weapon commonly used by police to enforce laws by beating crimina
 
 ## Spawns
 
-??????
+Police Vehicles (Common)
+Police (Common)
