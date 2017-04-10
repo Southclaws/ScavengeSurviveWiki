@@ -17,6 +17,6 @@ Baseball Bats are used in Americas most popular passtime... beating the pulp out
 
 ## Spawns
 
--Civilian Vehicles (Common)
--Civilian (Common)
--Weapon Drops (Very Common)
+- Civilian Vehicles (Common)
+- Civilian (Common)
+- Weapon Drops (Very Common)
