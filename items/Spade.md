@@ -2,7 +2,7 @@
 
 Is it a Spade, Shovel, Dirt Spoon or Trowl?
 
-Whatever it is, the main use is for burying a body (or making one).
+Whatever it is helps when burying a body (or making one).
 
 ## Statistics
 
