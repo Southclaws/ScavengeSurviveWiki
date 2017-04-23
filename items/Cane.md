@@ -11,11 +11,12 @@ A high quality wooden cane that helps people walk. Can also be used to stop peop
 
 ## Trivia
 
-- Item Ref 009
+- Item Ref 016
 - One/Two Handed Blunt Melee Weapon
-- Holsterable, unique Unholster Speed of 0.6 seconds.
+- Unable to Holster
 - No Scrap Value
 
 ## Spawns
 
-- Survivor (Legendary)
+- Civilian (Uncommon)
+- Civilian Vehicles (Uncommon)
