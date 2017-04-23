@@ -1,12 +1,12 @@
 # Flowers
 
-Roses are red, blood is too, violets are violent and ill kill you.  
+Roses are red, blood is too, violets are violent and i'll kill you.  
 ![](#!/images/Flowers.png)
 
 ## Statistics
 
 - Bleedrate: 0.01B/s (Thorns i guess)
-- Knock-out chance: 0% (Seriously, they're flowers...)
+- Knock-out chance: 0% (Petals are soft)
 - 2 Inventory Slots Required
 
 ## Trivia
